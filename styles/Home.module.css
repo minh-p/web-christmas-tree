@@ -12,6 +12,15 @@
   align-items: center;
 }
 
+.scene{
+  width: 100vw;
+  height: 80vh;
+}
+
+.canvas{
+  background: #000;
+}
+
 .footer {
   display: flex;
   flex: 1;
